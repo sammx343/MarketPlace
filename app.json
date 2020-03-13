@@ -1,6 +1,8 @@
 {
+  "name" : "MarketPlace_Uninorte",
+  "displayName" : "MarketPlace Uninorte",
   "expo": {
-    "name": "MarketPlace Uninorte",
+    "name": "MarketPlace_Uninorte",
     "description": "",
     "slug": "AwesomeProject",
     "privacy": "public",

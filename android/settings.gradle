@@ -1,0 +1,3 @@
+rootProject.name = 'MarketPlace_Uninorte'
+
+include ':app'
